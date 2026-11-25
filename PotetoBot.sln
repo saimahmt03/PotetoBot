@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PotetoBot.Shared", "PotetoB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PotetoBot.Client", "PotetoBot.Client\PotetoBot.Client.csproj", "{AF8E9516-6F7D-4749-9A0D-FE16C43CB104}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PotetoBot.API.Tests", "PotetoBot.API.Tests\PotetoBot.API.Tests.csproj", "{205CE629-6F88-4AD5-BE1C-5902093F3926}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,8 +57,23 @@ Global
 		{AF8E9516-6F7D-4749-9A0D-FE16C43CB104}.Release|x64.Build.0 = Release|Any CPU
 		{AF8E9516-6F7D-4749-9A0D-FE16C43CB104}.Release|x86.ActiveCfg = Release|Any CPU
 		{AF8E9516-6F7D-4749-9A0D-FE16C43CB104}.Release|x86.Build.0 = Release|Any CPU
+		{205CE629-6F88-4AD5-BE1C-5902093F3926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{205CE629-6F88-4AD5-BE1C-5902093F3926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{205CE629-6F88-4AD5-BE1C-5902093F3926}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{205CE629-6F88-4AD5-BE1C-5902093F3926}.Debug|x64.Build.0 = Debug|Any CPU
+		{205CE629-6F88-4AD5-BE1C-5902093F3926}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{205CE629-6F88-4AD5-BE1C-5902093F3926}.Debug|x86.Build.0 = Debug|Any CPU
+		{205CE629-6F88-4AD5-BE1C-5902093F3926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{205CE629-6F88-4AD5-BE1C-5902093F3926}.Release|Any CPU.Build.0 = Release|Any CPU
+		{205CE629-6F88-4AD5-BE1C-5902093F3926}.Release|x64.ActiveCfg = Release|Any CPU
+		{205CE629-6F88-4AD5-BE1C-5902093F3926}.Release|x64.Build.0 = Release|Any CPU
+		{205CE629-6F88-4AD5-BE1C-5902093F3926}.Release|x86.ActiveCfg = Release|Any CPU
+		{205CE629-6F88-4AD5-BE1C-5902093F3926}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {267E3717-E00B-4000-9740-167DBE4F7BD3}
 	EndGlobalSection
 EndGlobal
