@@ -1,0 +1,45 @@
+PotetoBotDB
+
+CREATE DATABASE PotetoBotDB;
+
+CREATE TABLE dbo.Conversation
+(
+    Id INT IDENTITY(1,1) NOT NULL, -- Auto-increments starting at 1 by 1
+    Title NVARCHAR(200) NOT NULL,
+    CreatedAt DATETIME2(7) NOT NULL
+        CONSTRAINT DF_Conversation_CreatedAt
+        DEFAULT SYSUTCDATETIME(),
+    UpdatedAt DATETIME2(7) NOT NULL
+        CONSTRAINT DF_Conversation_UpdatedAt
+        DEFAULT SYSUTCDATETIME(),
+
+    CONSTRAINT PK_Conversation
+        PRIMARY KEY CLUSTERED (Id)
+);
+
+
+CREATE TABLE dbo.ChatMessage
+(
+    Id INT IDENTITY(1,1) NOT NULL,
+    ConversationId INT NOT NULL,
+    Role NVARCHAR(20) NOT NULL,
+    Content NVARCHAR(MAX) NOT NULL,
+    CreatedAt DATETIME2 NOT NULL
+        CONSTRAINT DF_ChatMessage_CreatedAt
+        DEFAULT SYSUTCDATETIME(),
+
+    CONSTRAINT PK_ChatMessage
+        PRIMARY KEY (Id),
+
+    CONSTRAINT FK_ChatMessage_Conversation
+        FOREIGN KEY (ConversationId)
+        REFERENCES dbo.Conversation(Id),
+
+    CONSTRAINT CK_ChatMessage_Role
+        CHECK (Role IN ('User', 'Assistant'))
+);
+
+
+CREATE INDEX IX_ChatMessage_ConversationId_CreatedAt
+ON dbo.ChatMessage (ConversationId, CreatedAt);
+GO

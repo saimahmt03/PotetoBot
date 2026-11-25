@@ -1,0 +1,6 @@
+@PotetoBot.API_HostAddress = http://localhost:5192
+
+GET {{PotetoBot.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
