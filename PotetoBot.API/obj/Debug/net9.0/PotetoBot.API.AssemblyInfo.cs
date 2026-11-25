@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PotetoBot.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7ec806010daff89e78e240e4e0a1e6b2f7d312c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b31b168d914ee438eb29c87f8c695de45786515")]
 [assembly: System.Reflection.AssemblyProductAttribute("PotetoBot.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PotetoBot.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
