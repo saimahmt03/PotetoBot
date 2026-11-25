@@ -5,6 +5,7 @@ C:\Users\tosa\Desktop\working\PotetoBot\PotetoBot.Shared\obj\Debug\net9.0\Poteto
 C:\Users\tosa\Desktop\working\PotetoBot\PotetoBot.Shared\obj\Debug\net9.0\PotetoBot.Shared.AssemblyInfoInputs.cache
 C:\Users\tosa\Desktop\working\PotetoBot\PotetoBot.Shared\obj\Debug\net9.0\PotetoBot.Shared.AssemblyInfo.cs
 C:\Users\tosa\Desktop\working\PotetoBot\PotetoBot.Shared\obj\Debug\net9.0\PotetoBot.Shared.csproj.CoreCompileInputs.cache
+C:\Users\tosa\Desktop\working\PotetoBot\PotetoBot.Shared\obj\Debug\net9.0\PotetoBot.Shared.sourcelink.json
 C:\Users\tosa\Desktop\working\PotetoBot\PotetoBot.Shared\obj\Debug\net9.0\PotetoBot.Shared.dll
 C:\Users\tosa\Desktop\working\PotetoBot\PotetoBot.Shared\obj\Debug\net9.0\refint\PotetoBot.Shared.dll
 C:\Users\tosa\Desktop\working\PotetoBot\PotetoBot.Shared\obj\Debug\net9.0\PotetoBot.Shared.pdb

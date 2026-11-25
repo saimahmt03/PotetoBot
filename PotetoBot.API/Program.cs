@@ -5,7 +5,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services
     .AddApiServices()
     .AddDatabase(builder.Configuration)
-    .AddApplicationServices();
+    .AddApplicationServices()
+    .AddGeminiServices(builder.Configuration);
 
 var app = builder.Build();
 

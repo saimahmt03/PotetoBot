@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\tosa\\Desktop\\working\\PotetoBot\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9ECA2C4F-90F1-4C4F-96C8-0E19477414F3}|PotetoBot.API\\PotetoBot.API.csproj|c:\\users\\tosa\\desktop\\working\\potetobot\\potetobot.api\\extensions\\geminiserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ECA2C4F-90F1-4C4F-96C8-0E19477414F3}|PotetoBot.API\\PotetoBot.API.csproj|solutionrelative:potetobot.api\\extensions\\geminiserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ECA2C4F-90F1-4C4F-96C8-0E19477414F3}|PotetoBot.API\\PotetoBot.API.csproj|c:\\users\\tosa\\desktop\\working\\potetobot\\potetobot.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9ECA2C4F-90F1-4C4F-96C8-0E19477414F3}|PotetoBot.API\\PotetoBot.API.csproj|solutionrelative:potetobot.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ECA2C4F-90F1-4C4F-96C8-0E19477414F3}|PotetoBot.API\\PotetoBot.API.csproj|c:\\users\\tosa\\desktop\\working\\potetobot\\potetobot.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ECA2C4F-90F1-4C4F-96C8-0E19477414F3}|PotetoBot.API\\PotetoBot.API.csproj|solutionrelative:potetobot.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ECA2C4F-90F1-4C4F-96C8-0E19477414F3}|PotetoBot.API\\PotetoBot.API.csproj|c:\\users\\tosa\\desktop\\working\\potetobot\\potetobot.api\\options\\geminioptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ECA2C4F-90F1-4C4F-96C8-0E19477414F3}|PotetoBot.API\\PotetoBot.API.csproj|solutionrelative:potetobot.api\\options\\geminioptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GeminiServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\tosa\\Desktop\\working\\PotetoBot\\PotetoBot.API\\Extensions\\GeminiServiceExtensions.cs",
+              "RelativeDocumentMoniker": "PotetoBot.API\\Extensions\\GeminiServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\tosa\\Desktop\\working\\PotetoBot\\PotetoBot.API\\Extensions\\GeminiServiceExtensions.cs",
+              "RelativeToolTip": "PotetoBot.API\\Extensions\\GeminiServiceExtensions.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T18:32:24.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tosa\\Desktop\\working\\PotetoBot\\PotetoBot.API\\appsettings.json",
+              "RelativeDocumentMoniker": "PotetoBot.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\tosa\\Desktop\\working\\PotetoBot\\PotetoBot.API\\appsettings.json",
+              "RelativeToolTip": "PotetoBot.API\\appsettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-25T18:33:03.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GeminiOptions.cs",
+              "DocumentMoniker": "C:\\Users\\tosa\\Desktop\\working\\PotetoBot\\PotetoBot.API\\Options\\GeminiOptions.cs",
+              "RelativeDocumentMoniker": "PotetoBot.API\\Options\\GeminiOptions.cs",
+              "ToolTip": "C:\\Users\\tosa\\Desktop\\working\\PotetoBot\\PotetoBot.API\\Options\\GeminiOptions.cs",
+              "RelativeToolTip": "PotetoBot.API\\Options\\GeminiOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T18:32:50.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tosa\\Desktop\\working\\PotetoBot\\PotetoBot.API\\Program.cs",
+              "RelativeDocumentMoniker": "PotetoBot.API\\Program.cs",
+              "ToolTip": "C:\\Users\\tosa\\Desktop\\working\\PotetoBot\\PotetoBot.API\\Program.cs",
+              "RelativeToolTip": "PotetoBot.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T17:54:51.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
