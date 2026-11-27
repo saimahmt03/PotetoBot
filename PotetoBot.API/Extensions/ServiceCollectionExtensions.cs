@@ -33,6 +33,8 @@ public static class ServiceCollectionExtensions
     public static IServiceCollection AddApplicationServices(this IServiceCollection services)
     {
         services.AddSingleton<IOpenAIService, OpenAIService>();
+        services.AddSingleton<IGeminiService, GeminiService>();
+        services.AddScoped<ChatServices>();
 
         return services;
     }
