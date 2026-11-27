@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\tosa\\Desktop\\working\\PotetoBot\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{205CE629-6F88-4AD5-BE1C-5902093F3926}|PotetoBot.API.Tests\\PotetoBot.API.Tests.csproj|c:\\users\\tosa\\desktop\\working\\potetobot\\potetobot.api.tests\\extensions\\geminiserviceextensionstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{205CE629-6F88-4AD5-BE1C-5902093F3926}|PotetoBot.API.Tests\\PotetoBot.API.Tests.csproj|solutionrelative:potetobot.api.tests\\extensions\\geminiserviceextensionstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E3F880C-F4C4-4B32-AB09-A477260B9E92}|PotetoBot.Shared\\PotetoBot.Shared.csproj|c:\\users\\tosa\\desktop\\working\\potetobot\\potetobot.shared\\dtos\\chatresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E3F880C-F4C4-4B32-AB09-A477260B9E92}|PotetoBot.Shared\\PotetoBot.Shared.csproj|solutionrelative:potetobot.shared\\dtos\\chatresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{205CE629-6F88-4AD5-BE1C-5902093F3926}|PotetoBot.API.Tests\\PotetoBot.API.Tests.csproj|c:\\users\\tosa\\desktop\\working\\potetobot\\potetobot.api.tests\\services\\geminiservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{205CE629-6F88-4AD5-BE1C-5902093F3926}|PotetoBot.API.Tests\\PotetoBot.API.Tests.csproj|solutionrelative:potetobot.api.tests\\services\\geminiservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E3F880C-F4C4-4B32-AB09-A477260B9E92}|PotetoBot.Shared\\PotetoBot.Shared.csproj|c:\\users\\tosa\\desktop\\working\\potetobot\\potetobot.shared\\dtos\\chatrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E3F880C-F4C4-4B32-AB09-A477260B9E92}|PotetoBot.Shared\\PotetoBot.Shared.csproj|solutionrelative:potetobot.shared\\dtos\\chatrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GeminiServiceExtensionsTests.cs",
-              "DocumentMoniker": "C:\\Users\\tosa\\Desktop\\working\\PotetoBot\\PotetoBot.API.Tests\\Extensions\\GeminiServiceExtensionsTests.cs",
-              "RelativeDocumentMoniker": "PotetoBot.API.Tests\\Extensions\\GeminiServiceExtensionsTests.cs",
-              "ToolTip": "C:\\Users\\tosa\\Desktop\\working\\PotetoBot\\PotetoBot.API.Tests\\Extensions\\GeminiServiceExtensionsTests.cs",
-              "RelativeToolTip": "PotetoBot.API.Tests\\Extensions\\GeminiServiceExtensionsTests.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAAAH8AAAAAAAAAAAAAAA==",
+              "Title": "ChatResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\tosa\\Desktop\\working\\PotetoBot\\PotetoBot.Shared\\DTOs\\ChatResponseDto.cs",
+              "RelativeDocumentMoniker": "PotetoBot.Shared\\DTOs\\ChatResponseDto.cs",
+              "ToolTip": "C:\\Users\\tosa\\Desktop\\working\\PotetoBot\\PotetoBot.Shared\\DTOs\\ChatResponseDto.cs",
+              "RelativeToolTip": "PotetoBot.Shared\\DTOs\\ChatResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-25T21:21:48.752Z",
+              "WhenOpened": "2026-11-27T06:33:30.363Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GeminiServiceTests.cs",
-              "DocumentMoniker": "C:\\Users\\tosa\\Desktop\\working\\PotetoBot\\PotetoBot.API.Tests\\Services\\GeminiServiceTests.cs",
-              "RelativeDocumentMoniker": "PotetoBot.API.Tests\\Services\\GeminiServiceTests.cs",
-              "ToolTip": "C:\\Users\\tosa\\Desktop\\working\\PotetoBot\\PotetoBot.API.Tests\\Services\\GeminiServiceTests.cs",
-              "RelativeToolTip": "PotetoBot.API.Tests\\Services\\GeminiServiceTests.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Title": "ChatRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\tosa\\Desktop\\working\\PotetoBot\\PotetoBot.Shared\\DTOs\\ChatRequestDto.cs",
+              "RelativeDocumentMoniker": "PotetoBot.Shared\\DTOs\\ChatRequestDto.cs",
+              "ToolTip": "C:\\Users\\tosa\\Desktop\\working\\PotetoBot\\PotetoBot.Shared\\DTOs\\ChatRequestDto.cs",
+              "RelativeToolTip": "PotetoBot.Shared\\DTOs\\ChatRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-25T21:19:39.97Z",
+              "WhenOpened": "2026-11-27T06:32:27.46Z",
               "EditorCaption": ""
             }
           ]
